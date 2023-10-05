@@ -1,1 +1,2 @@
-# Very-useful
+# Psst... 
+Here's the loadstring for my script. 
